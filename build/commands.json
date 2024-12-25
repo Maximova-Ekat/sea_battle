@@ -1,0 +1,10 @@
+{
+    "c": "create_game",
+    "s": "save_game",
+    "l": "load_game",
+    "n": "next_state",
+    "q": "exit",
+    "a": "attack",
+    "u": "use_abiility",
+    "h": "help"
+}
