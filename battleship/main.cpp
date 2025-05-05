@@ -1,7 +1,7 @@
 #include "Game.h"
 #include <iostream>
 
-int main() {
+int main()  {
     Game* game = new Game();
     game->play();
 
