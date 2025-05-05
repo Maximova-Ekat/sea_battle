@@ -1,3 +1,0 @@
-/home/katyusha/CLionProjects/battleshipnew/battleship/cmake-build-debug/CMakeFiles/battleship.dir
-/home/katyusha/CLionProjects/battleshipnew/battleship/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/katyusha/CLionProjects/battleshipnew/battleship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
