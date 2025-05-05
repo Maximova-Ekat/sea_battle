@@ -1,0 +1,301 @@
+{
+    "abilities": {
+        "abilities": [
+            "Double Damage",
+            "Scanner",
+            "Bombardment"
+        ]
+    },
+    "enemy_field": {
+        "field": [
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 0
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 2,
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 1
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 2,
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 2
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 2,
+                    "x": 3,
+                    "y": 3
+                }
+            ]
+        ],
+        "sizeFieldH": 4,
+        "sizeFieldW": 4
+    },
+    "field_user": {
+        "field": [
+            [
+                {
+                    "status": 0,
+                    "value": 2,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 0
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 1
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 3,
+                    "y": 2
+                }
+            ],
+            [
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 0,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 1,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 1,
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "status": 0,
+                    "value": 2,
+                    "x": 3,
+                    "y": 3
+                }
+            ]
+        ],
+        "sizeFieldH": 4,
+        "sizeFieldW": 4
+    },
+    "ship_manager_enemy": {
+        "ships": [
+            {
+                "coordinates": [
+                    3,
+                    3
+                ],
+                "orientation": 1,
+                "segments": [
+                    {
+                        "id": 0,
+                        "status": 0
+                    }
+                ],
+                "size": 1
+            },
+            {
+                "coordinates": [
+                    1,
+                    1
+                ],
+                "orientation": 1,
+                "segments": [
+                    {
+                        "id": 0,
+                        "status": 0
+                    },
+                    {
+                        "id": 1,
+                        "status": 0
+                    }
+                ],
+                "size": 2
+            }
+        ]
+    },
+    "ship_manager_user": {
+        "ships": [
+            {
+                "coordinates": [
+                    3,
+                    3
+                ],
+                "orientation": 0,
+                "segments": [
+                    {
+                        "id": 0,
+                        "status": 0
+                    }
+                ],
+                "size": 1
+            },
+            {
+                "coordinates": [
+                    0,
+                    0
+                ],
+                "orientation": 0,
+                "segments": [
+                    {
+                        "id": 0,
+                        "status": 0
+                    },
+                    {
+                        "id": 1,
+                        "status": 0
+                    }
+                ],
+                "size": 2
+            }
+        ]
+    }
+}
